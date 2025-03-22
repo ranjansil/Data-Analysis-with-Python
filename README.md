@@ -1,6 +1,6 @@
 # Data-Analysis-with-Python
 Netflix movies and TV shows data analysis 
-Data analysis for Netflix Movies and TV Shows
+
 1.	Data Loading and Inspection:
 •	After loading the data in the panda’s data frame, I used the head function to show the first few rows of the data so that I get more insight about the dataset.
 •	 I then checked for null values and found quite a few of them. So, I used the drop command to drop all the null values. But this was not a good idea. Let’s discuss it in data exploration. 
